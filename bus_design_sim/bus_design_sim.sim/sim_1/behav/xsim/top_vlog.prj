@@ -1,0 +1,29 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../bus_design_sim.srcs/sources_1/imports/Project Sources/BRAM_1.v" \
+"../../../../bus_design_sim.srcs/sources_1/imports/Project Sources/Bus_Arbiter.v" \
+"../../../../bus_design_sim.srcs/sources_1/imports/Project Sources/Bus_interconnect.v" \
+"../../../../bus_design_sim.srcs/sources_1/imports/Project Sources/Bus_mux.v" \
+"../../../../bus_design_sim.srcs/sources_1/imports/Project Sources/LCD_Display.v" \
+"../../../../bus_design_sim.srcs/sources_1/imports/Project Sources/LCD_in.v" \
+"../../../../bus_design_sim.srcs/sources_1/imports/Project Sources/bin27.v" \
+"../../../../bus_design_sim.srcs/sources_1/new/button_event1.v" \
+"../../../../bus_design_sim.srcs/sources_1/imports/Project Sources/command_processor.v" \
+"../../../../bus_design_sim.srcs/sources_1/imports/Project Sources/lcdlab3.v" \
+"../../../../bus_design_sim.srcs/sources_1/imports/Project Sources/master_in_port.v" \
+"../../../../bus_design_sim.srcs/sources_1/imports/Project Sources/master_module.v" \
+"../../../../bus_design_sim.srcs/sources_1/imports/Project Sources/master_out_port.v" \
+"../../../../bus_design_sim.srcs/sources_1/imports/Project Sources/master_port.v" \
+"../../../../bus_design_sim.srcs/sources_1/imports/Project Sources/reset_delay.v" \
+"../../../../bus_design_sim.srcs/sources_1/imports/Project Sources/scaledclock.v" \
+"../../../../bus_design_sim.srcs/sources_1/imports/Project Sources/slave_4k.v" \
+"../../../../bus_design_sim.srcs/sources_1/imports/Project Sources/slave_in_port.v" \
+"../../../../bus_design_sim.srcs/sources_1/imports/Project Sources/slave_out_port.v" \
+"../../../../bus_design_sim.srcs/sources_1/imports/Project Sources/slave_port.v" \
+"../../../../bus_design_sim.srcs/sources_1/imports/Project Sources/top.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

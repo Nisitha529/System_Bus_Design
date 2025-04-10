@@ -1,0 +1,47 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.srcs/sources_1/imports/Project Sources/BRAM_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BRAM_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.srcs/sources_1/imports/Project Sources/Bus_Arbiter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Bus_Arbiter
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.srcs/sources_1/imports/Project Sources/Bus_interconnect.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Bus_interconnect
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.srcs/sources_1/imports/Project Sources/Bus_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Bus_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.srcs/sources_1/imports/Project Sources/LCD_Display.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LCD_Display
+INFO: [VRFC 10-311] analyzing module LCD_display_string
+WARNING: [VRFC 10-1771] potential always loop found [D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.srcs/sources_1/imports/Project Sources/LCD_Display.v:450]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.srcs/sources_1/imports/Project Sources/LCD_in.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LCD_in
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.srcs/sources_1/imports/Project Sources/bin27.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder
+INFO: [VRFC 10-311] analyzing module bin27
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.srcs/sources_1/new/button_event1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module button_event1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.srcs/sources_1/imports/Project Sources/command_processor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module command_processor
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.srcs/sources_1/imports/Project Sources/lcdlab3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lcdlab3
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.srcs/sources_1/imports/Project Sources/master_in_port.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module master_in_port
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.srcs/sources_1/imports/Project Sources/master_module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module master_module
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.srcs/sources_1/imports/Project Sources/master_out_port.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module master_out_port
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.srcs/sources_1/imports/Project Sources/master_port.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module master_port
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.srcs/sources_1/imports/Project Sources/reset_delay.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Reset_Delay
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.srcs/sources_1/imports/Project Sources/scaledclock.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module scaledclock
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.srcs/sources_1/imports/Project Sources/slave_4k.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module slave_4k
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.srcs/sources_1/imports/Project Sources/slave_in_port.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module slave_in_port
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.srcs/sources_1/imports/Project Sources/slave_out_port.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module slave_out_port
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.srcs/sources_1/imports/Project Sources/slave_port.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module slave_port
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.srcs/sources_1/imports/Project Sources/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

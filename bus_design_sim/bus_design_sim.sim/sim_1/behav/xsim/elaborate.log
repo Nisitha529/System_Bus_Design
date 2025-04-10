@@ -1,0 +1,36 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: D:/Vivado_HLx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto b94cbadcd52848349dfd0562f75a3678 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot top_behav xil_defaultlib.top xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.scaledclock(maxcount=500000)
+Compiling module xil_defaultlib.Reset_Delay
+Compiling module xil_defaultlib.LCD_display_string
+Compiling module xil_defaultlib.LCD_Display
+Compiling module xil_defaultlib.lcdlab3
+Compiling module xil_defaultlib.LCD_in
+Compiling module xil_defaultlib.decoder
+Compiling module xil_defaultlib.bin27
+Compiling module xil_defaultlib.command_processor
+Compiling module xil_defaultlib.master_in_port
+Compiling module xil_defaultlib.master_out_port
+Compiling module xil_defaultlib.master_port
+Compiling module xil_defaultlib.button_event1
+Compiling module xil_defaultlib.master_module
+Compiling module xil_defaultlib.Bus_Arbiter
+Compiling module xil_defaultlib.Bus_mux
+Compiling module xil_defaultlib.Bus_interconnect
+Compiling module xil_defaultlib.slave_in_port
+Compiling module xil_defaultlib.slave_out_port
+Compiling module xil_defaultlib.slave_port
+Compiling module xil_defaultlib.BRAM_1
+Compiling module xil_defaultlib.slave_4k
+Compiling module xil_defaultlib.top
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot top_behav

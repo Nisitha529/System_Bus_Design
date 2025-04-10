@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at slave_port.v(124): always construct contains both blocking and non-blocking assignments File: D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/serial_bus_design_without_burst/serial_bus_design_without_burst.srcs/sources_1/new/slave_port.v Line: 124

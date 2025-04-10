@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Dec  5 14:56:59 2023
+# Process ID: 14060
+# Current directory: D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.sim/sim_1/behav/xsim/xsim.dir/top_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/MOODLE/SEMESTER 7/EN4020_Advanced_Digital_Systems/BUS_Design/bus_design_sim/bus_design_sim.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/MOODLE/SEMESTER -notrace
+couldn't read file "D:/MOODLE/SEMESTER": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Tue Dec  5 14:56:59 2023...
